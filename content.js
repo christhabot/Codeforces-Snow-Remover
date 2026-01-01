@@ -1,0 +1,1 @@
+document.body.style.setProperty("background", "none", "important");
